@@ -5,10 +5,10 @@ This repository contains the generated data, the scripts that generated the data
 - contains the data in csv format
 
 ## docs/
-### Documents
+### documents
 - reports
 
-### Weekly meeting
+### weekly meeting
 - weekly meeting mintues
 
 ## images/
